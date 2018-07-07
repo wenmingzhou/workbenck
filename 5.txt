@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 liujing
-=======
 zhouwenming
->>>>>>> develop_20180707zhou
+
