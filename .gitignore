@@ -1,0 +1,14 @@
+.svn
+*.log
+
+/.idea
+/vendor
+/composer.lock
+
+/esfadmin/shtml/tpl_cache/*
+/esfadmin/365fcache/*
+/esfadmin/uploads/*
+/esfadmin/thumb/*
+/esfadmin/module/personal_house/thumb/*
+
+!.gitkeep
